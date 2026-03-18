@@ -24,7 +24,6 @@
 - NumPy, Matplotlib
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OQHowler&layout=compact&theme=dark)
 ---
 
 ## 📫 Contact
