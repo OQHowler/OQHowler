@@ -14,7 +14,7 @@
 - Compared **Classical ML (Random Forest)** vs **Deep Learning (CNN)**
 - Improved accuracy from **53% → 95%** through iterative experimentation
 
-👉 [View Project](https://github.com/YOUR_USERNAME/blood-cell-image-analysis)
+👉 [View Project](https://github.com/OQHowler/blood-cell-image-analysis)
 
 ---
 
