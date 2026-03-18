@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 - 🧠 Interested in **Machine Learning, Deep Learning, and Quantitative Systems**
-- 🔬 Currently building projects in **Computer Vision & AI for Healthcare**
-- ⚡ Focused on **problem-solving, system building, and research-style thinking**
+- ⚡ Focused on ** system building, and research-style thinking**
 
 ---
 
